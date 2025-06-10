@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.psess
+*.vssscc
+*.buildscc
+*.vsp
+*.vspscc
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code (if used)
+.vscode/
+
+# Packages
+packages/
+*.nupkg
+*.snk
+
+# Miscellaneous
+*.log
+*.resharper
+*.scc
+[Ss]ource/[Cc]ontrol/
+[Cc]ustom[Ee]xport/
